@@ -99,7 +99,7 @@ html{
 
 body{
   background-color: var(--clr-neutral-500);
-  background-image: url(/assets/images/bg-pattern-top.svg), url(/assets/images/bg-pattern-bottom.svg);
+  background-image: url(./assets/images/bg-pattern-top.svg), url(./assets/images/bg-pattern-bottom.svg);
   background-position: top -400px left -80px ,
   bottom -400px right -80px;
   background-repeat: no-repeat;
@@ -183,8 +183,8 @@ main{
   }
   body{
     background-color: var(--clr-neutral-500);
-  background-image: url(/assets/images/bg-pattern-top.svg), url(/assets/images/bg-pattern-bottom.svg);
-  background-position: top -200px left -200px ,
+    background-image: url(./assets/images/bg-pattern-top.svg), url(./assets/images/bg-pattern-bottom.svg);
+    background-position: top -200px left -200px ,
   bottom -200px right -200px;
   background-repeat: no-repeat;
   background-size: 500px ;
